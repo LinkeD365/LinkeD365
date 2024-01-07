@@ -18,6 +18,7 @@ My public work is centred around [XrmToolBox Tools](https://xrmtoolbox.com), a s
 - [Flow to Visio Builder](https://github.com/LinkeD365/FlowToVisio)
 - [Power Virtual Agent to Visio Builder](https://github.com/LinkeD365/BotToVisio) 
 - [Business Process Flows to Visio](https://github.com/LinkeD365/BPFToVisio)
+- [Flow Admin](https://github.com/LinkeD365/Flow-Admin)
 <!--
 **LinkeD365/LinkeD365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
