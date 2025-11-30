@@ -1,4 +1,4 @@
-### ![smallIcon 32](https://user-images.githubusercontent.com/43988771/146911353-4f45628e-33ef-4a6d-901f-1ef0611534f4.png) Hi there I'm Cooky, LinkeD365 , Carl, whatever you want to call me this week 👋
+### ![smallIcon 32](https://user-images.githubusercontent.com/43988771/146911353-4f45628e-33ef-4a6d-901f-1ef0611534f4.png) Hi there I'm Cooky, LinkeD365, Carl, whatever you want to call me this week 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=linkeD365&theme=dark&show_icons=true)
 
 ## Me
